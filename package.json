@@ -1,6 +1,6 @@
 {
   "name": "vtom",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "packageManager": "pnpm@10.5.2",
   "description": "Alias shallowRef to atom.",
   "type": "module",
