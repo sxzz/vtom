@@ -1,7 +1,7 @@
 {
   "name": "vtom",
   "version": "2.0.0",
-  "packageManager": "pnpm@10.10.0",
+  "packageManager": "pnpm@10.34.5",
   "description": "Alias shallowRef to atom.",
   "type": "module",
   "license": "MIT",
@@ -46,7 +46,7 @@
     "bumpp": "^10.1.0",
     "eslint": "^9.26.0",
     "prettier": "^3.5.3",
-    "tsdown": "^0.11.1",
+    "tsdown": "^0.23.0",
     "typescript": "^5.8.3",
     "vite": "^7.0.0",
     "vitest": "^3.1.3",
